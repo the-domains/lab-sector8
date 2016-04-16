@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Lab Sector8]]></title>
         <description><![CDATA[Lab Sector8]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lab-sector8/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 14:04:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Apr 2016 14:06:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lab-sector8/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>How does emerging disruptive technologies impact the future of living? I'm not talking just living but deep living. Deep living takes into account the underlying unconscious forces and motivations that have been triggered by shadow forces inside emerging disruptive technologies.</p>]]></description>
-            <link>undefinedhow-does-emerging-disruptive-technologies-impact-the-future/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/654946bf-44a5-4f80-8ce7-e31e1fbe61bb.jpg">]]></description>
+            <link>https://thegrid.ai/lab-sector8/how-does-emerging-disruptive-technologies-impact-the-future/index.html</link>
             <guid isPermaLink="false">4c15aee7-002c-4a18-b239-ba9ba22e4e45</guid>
-            <pubDate>Sat, 16 Apr 2016 14:04:43 GMT</pubDate>
+            <pubDate>Sat, 16 Apr 2016 14:05:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
