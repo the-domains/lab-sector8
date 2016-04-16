@@ -1,0 +1,28 @@
+name: Lab Sector8
+favicon: null
+layout_spectrum: 0.5794517467729747
+typography_spectrum: 0.3351453854702413
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8065055671613663
+  lightness: 0.3466318715363741
+  saturation: 0.7561881854198873
+  rhythmicContrast: 0.017326358938589692
+purpose: []
