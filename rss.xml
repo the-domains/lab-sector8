@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Lab Sector8]]></title>
+        <description><![CDATA[Lab Sector8]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 16 Apr 2016 14:04:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>How does emerging disruptive technologies impact the future of living? I'm not talking just living but deep living. Deep living takes into account the underlying unconscious forces and motivations that have been triggered by shadow forces inside emerging disruptive technologies.</p>]]></description>
+            <link>undefinedhow-does-emerging-disruptive-technologies-impact-the-future/index.html</link>
+            <guid isPermaLink="false">4c15aee7-002c-4a18-b239-ba9ba22e4e45</guid>
+            <pubDate>Sat, 16 Apr 2016 14:04:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
